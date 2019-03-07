@@ -4,5 +4,6 @@ def take_a_number(katz_deli, name)
   puts "Welcome, #{name}. You are number #{katz.deli.length} in length."
 end
 
-def now_serving(name)
+def now_serving(katz-length)
+  
   
